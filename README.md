@@ -1,2 +1,2 @@
 # test-repooo
-Its my new repo
+Its my repo.
